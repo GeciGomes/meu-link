@@ -3,7 +3,7 @@
 Página de links pessoais estilo Linktree desenvolvida com HTML e CSS.
 
 ## 🔗 Acesse o site
-https://GeciGomes.github.io/meu-link/
+https://GeciGomes.github.io/links/
 
 ## 📌 Sobre o projeto
 Este projeto foi criado com o objetivo de centralizar meus principais links em uma única página simples e responsiva.
